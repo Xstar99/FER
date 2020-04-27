@@ -1,0 +1,4 @@
+datagen = ImageDataGenerator(
+    rotation_range=20,
+    horizontal_flip=True,
+    vertical_flip=True)
